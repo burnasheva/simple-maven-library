@@ -60,7 +60,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.repository.url>http://nexus-test.labs.intellij.net:8081/repository/private-maven-registry/</project.repository.url>
-        <deploy.version>1.0-SNAPSHOT</deploy.version>
     </properties>
 
 </project>
