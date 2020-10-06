@@ -6,7 +6,7 @@ open class OurBuildType(init: BuildType.() -> Unit) : BuildType ({
 
     init()
     params {
-        param("env.someParam", "333")
+        param("env.someParam", "555")
     }
 })
 
