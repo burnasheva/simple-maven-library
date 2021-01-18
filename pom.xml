@@ -133,7 +133,7 @@
         </repository>
         <repository>
             <id>nexus-repository</id>
-            <url>http://nexus-test.labs.intellij.net:8081/repository/private-maven-registry</url>
+            <url>${project.repository.url}</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
